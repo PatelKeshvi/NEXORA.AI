@@ -111,11 +111,11 @@ Licensed under the **MIT License** — see the [LICENSE](./LICENSE) file.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Connect with me
 
-**Adyaprana Pradhan**  
-- **GitHub:** [https://github.com/Adyaprana](https://github.com/Adyaprana)  
-- **LinkedIn:** [https://www.linkedin.com/in/adyaprana21](https://www.linkedin.com/in/adyaprana21)
+**Keshvi Patel**  
+- **GitHub:** [https://github.com/PatelKeshvi](https://github.com/PatelKeshvi)  
+- **LinkedIn:** [https://www.linkedin.com/in/keshvi-patel-2bb326281/](https://www.linkedin.com/in/keshvi-patel-2bb326281/)
 - **🌐 Website:** [adyaprana.com](https://www.adyaprana.com)  
 - 🐦 Twitter: [@Adyaprana](https://x.com/Adyaprana21)
 - 📸 Instagram: [@adyaprana](https://www.instagram.com/tensor_photos/)
