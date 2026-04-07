@@ -14,7 +14,7 @@
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.10+-blue.svg"></a>
   <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/built%20with-streamlit-orange"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-green.svg"></a>
-  <a href="https://linkedin.com/in/adyaprana21"><img src="https://img.shields.io/badge/connect-linkedin-blue"></a>
+  <a href="https://www.linkedin.com/in/keshvi-patel-2bb326281/"><img src="https://img.shields.io/badge/connect-linkedin-blue"></a>
 </p>
 
 ---
@@ -28,10 +28,6 @@
 ## 🚀 Live Demo
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; align-items: center; gap: 2rem; padding: 1rem 0;">
-
-  <a href="https://nexora-ai-2wcg.onrender.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Visit%20App%20on%20Render-blue?style=for-the-badge" alt="Visit App">
-  </a>
   <a href="https://www.linkedin.com/posts/adyaprana21_codecomplete-teamkiit-include-activity-7316729214173335552-V1v6" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/%F0%9F%93%A2%20LinkedIn%20Post-0077b5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Post">
   </a>
