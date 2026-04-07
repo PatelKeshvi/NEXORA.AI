@@ -297,7 +297,7 @@ else:
 # ---------------- Footer ---------------- #
 st.markdown("""
 <div class="footer">
-    <p>Made with ❤️ by Adyaprana Pradhan | © 2025 All Rights Reserved</p>
+    <p>Made with ❤️ by Keshvi Patel | © 2026 All Rights Reserved</p>
     <p>Multimodal Virtual Assistant Chatbot | 🤖 Nexora.ai</p>
 </div>
 """, unsafe_allow_html=True)
