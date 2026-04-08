@@ -39,6 +39,7 @@ DOMAIN_CONFIGS = {
         ),
         "output_mode": "text_only"
     },
+    
     "General Assistant": {
         "icon": "🤖",
         "description": "Get help with any general questions or tasks.",
