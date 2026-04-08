@@ -64,7 +64,6 @@
 
 ## 📦 Installation
 
-```bash
 # 1. Clone the repository
 git clone https://github.com/yourusername/multimodal-chatbot.git
 cd multimodal-chatbot
@@ -82,7 +81,7 @@ api_key = "YOUR_MISTRAL_API_KEY"
 
 # 5. Run the application
 streamlit run app.py
-```
+
 ## ☁️ Deployment
 
 You can easily deploy this app to any modern cloud platform:
