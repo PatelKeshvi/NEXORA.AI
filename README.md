@@ -31,7 +31,7 @@
 ## 🚀 Live Demo
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; align-items: center; gap: 2rem; padding: 1rem 0;">
-  <a href="https://www.linkedin.com/posts/adyaprana21_codecomplete-teamkiit-include-activity-7316729214173335552-V1v6" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/posts/keshvi-patel-2bb326281_python-debugging-ai-activity-7447576051515338752-0klP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESRwC8B4fBLGSSgDnW_7DUpdnmhrYZ2vO8" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/%F0%9F%93%A2%20LinkedIn%20Post-0077b5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Post">
   </a>
 
