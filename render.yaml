@@ -4,7 +4,7 @@ services:
     runtime: docker            # Uses your Dockerfile
     plan: free                 # Or any paid tier you prefer
     branch: main               # Git branch for auto-deploys
-    repo: https://github.com/Adyaprana/Nexora.ai
+    repo: https://github.com/PatelKeshvi/NEXORA.AI
     dockerfilePath: ./Dockerfile
 
     envVars:
