@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 mkdir -p ~/.streamlit
 cp secrets.toml ~/.streamlit/
 
