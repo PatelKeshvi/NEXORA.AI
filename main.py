@@ -2,7 +2,6 @@ import requests
 import base64
 import json
 
-
 import PyPDF2
 import speech_recognition as sr
 from PIL import Image
