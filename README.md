@@ -24,6 +24,9 @@
 > 🎬 *Check out a quick walkthrough of the app below:*
 
  <img src="assets\Home.png" width="600"/>
+ <img src="assets\page 2.png" width="600"/>
+ <img src="assets\page 3.png" width="600"/>
+ <img src="assets\page 4.png" width="600"/>
 
 ## 🚀 Live Demo
 
