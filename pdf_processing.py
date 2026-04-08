@@ -1,3 +1,5 @@
+# for PDF processing
+
 import fitz  # PyMuPDF
 
 def extract_text_from_pdf(pdf_file):
