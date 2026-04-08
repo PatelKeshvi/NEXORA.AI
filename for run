@@ -1,4 +1,4 @@
-// run code
+# run code
 
 python -m venv venv
 venv\Scripts\activate
