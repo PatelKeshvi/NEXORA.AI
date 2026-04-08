@@ -3,6 +3,7 @@
 import pytesseract
 from PIL import Image
 
+
 # Set the correct path to tesseract binary for Linux (Render uses Debian-based systems)
 pytesseract.pytesseract.tesseract_cmd = '/usr/bin/tesseract'
 
