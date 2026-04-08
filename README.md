@@ -28,7 +28,7 @@
  <img src="assets\page 3.png" width="600"/>
  <img src="assets\page 4.png" width="600"/>
 
-## 🚀 Live Demo
+## 🚀 Linkedin Post
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; align-items: center; gap: 2rem; padding: 1rem 0;">
   <a href="https://www.linkedin.com/posts/keshvi-patel-2bb326281_python-debugging-ai-activity-7447576051515338752-0klP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESRwC8B4fBLGSSgDnW_7DUpdnmhrYZ2vO8" target="_blank" style="text-decoration: none;">
